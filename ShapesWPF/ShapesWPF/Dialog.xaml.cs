@@ -23,11 +23,11 @@ namespace ShapesWPF
         Canvas c;
         public Dialog(string v)
         {
-            InitializeComponent();
+           // InitializeComponent();
         }
         public Dialog(Canvas c)
         {
-            InitializeComponent();
+            //InitializeComponent();
             this.c = c;
         }
         private void button_Click(object sender, RoutedEventArgs e)

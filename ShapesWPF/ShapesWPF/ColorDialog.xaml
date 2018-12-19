@@ -16,7 +16,6 @@
             <TextBlock>Pink</TextBlock>
         </ComboBox>
         <Button x:Name="button" Content="Confirm" HorizontalAlignment="Left" Margin="344,256,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.045,-0.184" Click="button_Click"/>
-        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="114,198,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
