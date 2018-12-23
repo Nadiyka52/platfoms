@@ -10,6 +10,9 @@ namespace Project4
     {
         static void Main(string[] args)
         {
+            Tasks t = new Tasks();
+            t.ExecuteTasks();
+            Console.Read();
         }
     }
 }
