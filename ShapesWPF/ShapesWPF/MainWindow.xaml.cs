@@ -50,6 +50,7 @@ namespace ShapesWPF
             collection.Clear();
             Menu_it.Items.Clear();
             z = 1;
+
         }
 
         /// <summary>
