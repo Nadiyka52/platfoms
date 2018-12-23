@@ -4,6 +4,9 @@ using System.Configuration;
 
 namespace Project4
 {
+    /// <summary>
+    /// Performs executing of queries
+    /// </summary>
     class Tasks
     {
         /// <summary>
