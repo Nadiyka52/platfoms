@@ -12,7 +12,7 @@ namespace Project4
         /// <summary>
         /// Connection string to Northwind database
         /// </summary>
-        private readonly string connectionString = ConfigurationManager.ConnectionStrings["NORTHWNDConnectionString"].ConnectionString;
+        private readonly string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["NORTHWNDConnectionString"].ConnectionString;
 
         /// <summary>
         /// Represents a unique session to a SQL Server data source.
